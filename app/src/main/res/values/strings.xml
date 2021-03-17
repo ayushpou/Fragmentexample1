@@ -1,5 +1,3 @@
-
-
 <resources>
     <string name="app_name">FragmentExample</string>
 
@@ -29,5 +27,6 @@
     <string name="quesiton_rating">like the song?</string>
     <string name="my_rating">My Rating:</string>
     <string name="OPEN">Open</string>
+    <string name="prev">Previous</string>
 
 </resources>

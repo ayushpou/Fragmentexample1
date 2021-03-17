@@ -1,1 +1,1 @@
-![GIF](vg1.gif)
+![GIF](vg2.gif)
